@@ -1,3 +1,2 @@
-# desc_demo
-Based on DESC notebooks
-DESC environment at CC-IN2P3 - Demo for LSST-France
+# LSST_France_demo
+Demo for LSST-France
